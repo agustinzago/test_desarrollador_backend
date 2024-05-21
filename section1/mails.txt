@@ -1,0 +1,21 @@
+john.doe@example.com
+invalid-email@com
+mary.jane@domain.co.uk
+username@.missingdomain.com
+valid.email@sub.domain.com
+no-at-symbol.com
+another.valid.email@example.org
+spaces in address@domain.com
+user.name+tag+sorting@example.com
+missingdomain@.com
+just"not"right@example.com
+admin@mailserver1
+user@domain.com
+user@domain
+user@.com
+missing-atsign.com
+user@domain.web
+user@domaincom
+valid_email@example.net
+valid.email@domain.com
+invalid-email@domain..com
